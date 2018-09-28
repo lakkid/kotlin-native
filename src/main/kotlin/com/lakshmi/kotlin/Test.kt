@@ -1,3 +1,5 @@
+package com.lakshmi.kotlin
+
 const val API_KEY = "abdfkdfgl453"
 class Helper {
     fun getSum(first: Int, second: Int): Int = first + second
